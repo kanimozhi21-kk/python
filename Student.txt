@@ -1,0 +1,9 @@
+Name:kkkk
+Age:18
+English:77
+Tamil:77
+Maths:77
+Science:77
+Social:77
+Total:385
+Average:77.0
